@@ -9,7 +9,7 @@ const fs = require('fs'),
 
 // TAMU api key
 dotenv.config();
-const API_KEY = '44c033dfe9f04761910ef01ab3266e83';
+const API_KEY = 'MY API goes here';
 const API_URL = 'https://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderWebServiceHttpNonParsed_V04_01.aspx'
 
 
